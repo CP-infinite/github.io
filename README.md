@@ -7,6 +7,6 @@
   <link rel="stylesheet" href="stylesheet.css">
   <body>
     <h1 class="title">名古屋観光</h1>
-    <img></img>
+    <img　src="S__124772358.jpg"></img>
   </body>
 </html>
